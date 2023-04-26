@@ -12,10 +12,9 @@ Write a function:
 that, given three integers X, Y and D, returns the minimal number of jumps from position X to a position equal to or greater than Y.
 
 For example, given:
-
-  *X = 10
-  *Y = 85
-  *D = 30
+* X = 10
+* Y = 85
+* D = 30
 the function should return 3, because the frog will be positioned as follows:
 
 after the first jump, at position 10 + 30 = 40
